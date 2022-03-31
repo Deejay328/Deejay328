@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deejay328
 - 👀 I’m interested in ... expanding my skillset
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... dfinklea328@gmail.com
 
 <!---
